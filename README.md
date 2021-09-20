@@ -1,3 +1,3 @@
-# Strapi application
+# Strapi CMS
 
-A quick description of your strapi application
+CMS - Proyecto de React - La Guía Completa: Hooks Context Redux MERN +15 Apps de Udemy
